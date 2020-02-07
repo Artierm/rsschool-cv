@@ -15,5 +15,9 @@
 7. Education 
      * Belarusian State University \ The Faculty of Radiophysics and Computer Technologies, 2 course.
 
-8. English      
+8. English
+
+*  I listen to songs in English and try to recognize the words.
+* I have some tapes and video-tapes in English.
+* I like to watch different satellite TV programs in English. 
 
