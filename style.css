@@ -1,31 +1,70 @@
-h1 {
-    text-align:center;
-    font-weight: bold;
-
-}
-body {
-    padding-left:5%;
-    padding-right:5%;
-    font-size: large;
+.container {
+    width: 100%;
+    max-width: 1024px;
+    padding: 0 10px;
+    margin: 0 auto;
+    float:center;
     font-family: Arial, Helvetica, sans-serif;
-    width: 1000px;
+  }
+ .section1{
 
-}
-.ArtyomErmak {
-width:35%;
-float:right;
-}
+    width:16%;
+    float:left;
+    height:235px;
+    margin:5px;
 
-.git {
-    font-size:20px;
-}
-blockquote {
-    background-color: black;
-    color : white;
-    float: right;
-    width:900px;
-    height:100px;
-    margin-top: 17px;
     
-}
-.block { float: center;}
+ }
+ .section2{
+
+    width:25%;
+    float:left;
+    height:235px;
+    margin:5px;
+
+ }
+ .section3{
+
+    width:26%;
+    float:left;
+    height:235px;
+    margin:10px;
+    
+ }
+ .section4{
+
+    width:26%;
+    float:left;
+    height:235px;
+    margin:10px;
+    
+ }
+
+ h2 + ul {
+     visibility: hidden;
+     
+ }
+ h2:hover +ul {
+     visibility:visible;
+    
+ }
+ body{
+     margin: 0;
+     padding: 0;
+     height: 90vh;
+ }
+
+ header{
+     height:20vh;
+ }
+ footer {
+     height:10vh;
+ }
+ main{
+     height:60vh;
+ }
+ .ArtyomErmak{
+     height:20vh;
+     float:bottom;
+
+ }
