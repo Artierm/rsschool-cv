@@ -1,0 +1,70 @@
+.container {
+    width: 100%;
+    max-width: 1024px;
+    padding: 0 10px;
+    margin: 0 auto;
+    float:center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+ .section1{
+
+    width:16%;
+    float:left;
+    height:235px;
+    margin:5px;
+
+    
+ }
+ .section2{
+
+    width:25%;
+    float:left;
+    height:235px;
+    margin:5px;
+
+ }
+ .section3{
+
+    width:26%;
+    float:left;
+    height:235px;
+    margin:10px;
+    
+ }
+ .section4{
+
+    width:26%;
+    float:left;
+    height:235px;
+    margin:10px;
+    
+ }
+
+ h2 + ul {
+     visibility: hidden;
+     
+ }
+ h2:hover +ul {
+     visibility:visible;
+    
+ }
+ body{
+     margin: 0;
+     padding: 0;
+     height: 90vh;
+ }
+
+ header{
+     height:20vh;
+ }
+ footer {
+     height:10vh;
+ }
+ main{
+     height:60vh;
+ }
+ .ArtyomErmak{
+     height:20vh;
+     float:bottom;
+
+ }
